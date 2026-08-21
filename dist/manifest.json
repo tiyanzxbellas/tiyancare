@@ -1,0 +1,25 @@
+{
+  "name": "NekoStream - Streaming & Video Player Modern",
+  "short_name": "NekoStream",
+  "description": "Platform Streaming Anime, Hentai, dan JAV Terlengkap dengan antarmuka modern, cepat, dan responsif.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07090e",
+  "theme_color": "#07090e",
+  "orientation": "portrait",
+  "categories": ["entertainment", "video"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
